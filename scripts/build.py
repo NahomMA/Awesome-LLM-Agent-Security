@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""Generate README.md and extended.md from the CSVs in data/.
-
-The CSVs are exported from a systematic literature collection:
-  - data/core_catalog.csv     125 defenses read in full and coded on four
-                              threat-model axes (K/A/T/I) + guarantee type
-  - data/extended_catalog.csv 385 further defenses screened from abstracts
-
-Run:  python3 scripts/build.py
-Then review the generated markdown before committing.
-"""
 import csv
 import datetime
 import pathlib
