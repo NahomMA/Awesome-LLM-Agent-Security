@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If this catalog is useful in your research, please cite the repository. A companion paper is under submission; this file will be updated with the paper citation after review."
+title: "Awesome LLM Agent Security: a coded catalog of defenses for LLM-based autonomous agents"
+type: dataset
+authors:
+  - name: "NahomMA"
+repository-code: "https://github.com/NahomMA/Awesome-LLM-Agent-Security"
+license: CC-BY-4.0
